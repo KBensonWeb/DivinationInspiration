@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Divination Inspiration</string>
+    <string name="welcome">Welcome to Divination Inspiration by Kelsi! Click the button below to
+        view all products and information.</string>
+    <string name="button">Take me to the info!</string>
+    <string name="create_order">Create Order</string>
+    <string name="details">Product Details</string>
+    <string name="products_list">List_Products</string>
+    <string name="create_order_title">Create Order</string>
+    <string name="action_share">Share</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
